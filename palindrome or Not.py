@@ -2,7 +2,7 @@
 
 char=input("Enter String:")
 reverse=char[::-1]
-print("Char:",char)
+print("Character:",char)
 if char==reverse:
     print(char,"palindrome")
 else:
